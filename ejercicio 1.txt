@@ -1,0 +1,35 @@
+
+	{
+		Console.WriteLine("Hello World");
+		
+		int c = 14;
+	        int a = 20;
+		int r = 30;
+			
+	 //ccar
+		Console.Write(c);
+		Console.Write(c);
+		Console.Write(a);
+		Console.WriteLine(r);
+	    Console.WriteLine("agrega una palabra");
+		
+		Console.ReadLine();
+		
+		
+	 //acr
+		Console.Write(a);
+		Console.Write(c);
+		Console.WriteLine(r);
+		Console.WriteLine("agrega una frase");
+		
+		Console.ReadLine();
+		
+	 //arar
+		Console.Write(a);
+		Console.Write(r);
+		Console.Write(a);
+		Console.WriteLine(r);
+	    Console.WriteLine("finalizado");
+	
+	}
+}
